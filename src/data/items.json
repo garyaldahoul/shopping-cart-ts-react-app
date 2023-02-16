@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Book_1",
+        "price":100,
+        "imgUrl":"https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id":2,
+        "name":"Book_2",
+        "price":30,
+        "imgUrl":"https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id":3,
+        "name":"Book_3",
+        "price":50,
+        "imgUrl":"https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "id":4,
+        "name":"Book_4",
+        "price":10,
+        "imgUrl":"https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    }
+]
